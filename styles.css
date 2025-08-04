@@ -34,4 +34,12 @@
 .text-preset-2-bold {
     font-weight: 700;
     font-size: 0.875rem; /* 14px */
+}}
+
+/* custom fonts */
+@font-face {
+    font-family: "Inter";
+    src: local("Inter"), url("./assets//fonts/Inter-VariableFont_slnt\,wght.ttf");
+    font-weight: 400 700;
 }
+
