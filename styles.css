@@ -93,6 +93,9 @@ body, main {
 .owner-address {
     color: var(--green);
 }
+.owner-description{
+    color: var(--white);
+}
 /*  */
 
 /* tablet styles */
