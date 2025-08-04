@@ -86,6 +86,9 @@ body, main {
 .owner-name {
     color: var(--white);
 }
+.owner-address {
+    color: var(--green);
+}
 /*  */
 
 /* tablet styles */
