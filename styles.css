@@ -1,0 +1,37 @@
+:root {
+    /* colors */
+    --gray-900: #141414;
+    --gray-800: #1F1F1F;
+    --gray-700: #333333;
+    --green: #C4F82A;
+    --white: #FFFFFF;
+
+    /* spacing */
+    --spacing-500: 2.5rem; /* 40px */
+    --spacing-300: 1.5rem; /* 24px */
+    --spacing-200: 1rem;
+    --spacing-150: 0.75rem; /* 12px */
+    --spacing-100: 0.5rem; /* 8px */
+    --spacing-50: 0.25rem; /* 4px */
+}
+
+.text-preset-1, .text-preset-2, .text-preset-2-bold {
+    line-height: 150%;
+    letter-spacing: 0px;
+}
+
+/* typography */
+.text-preset-1 {
+    font-weight: 700;
+    font-size: 1.5rem; /* 24px */
+}
+
+.text-preset-2 {
+    font-weight: 400;
+    font-size: 0.875rem; /* 14px */
+}
+
+.text-preset-2-bold {
+    font-weight: 700;
+    font-size: 0.875rem; /* 14px */
+}
