@@ -83,6 +83,9 @@ body, main {
     width: 5rem; /* 80px */
     height: 5rem; /* 80px */
 }
+.owner-name {
+    color: var(--white);
+}
 /*  */
 
 /* tablet styles */
