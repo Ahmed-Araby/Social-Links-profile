@@ -83,8 +83,12 @@ body, main {
     width: 5rem; /* 80px */
     height: 5rem; /* 80px */
 }
+.owner-intro {
+    text-align: center;
+}
 .owner-name {
     color: var(--white);
+    margin-bottom: var(--spacing-50);
 }
 .owner-address {
     color: var(--green);
