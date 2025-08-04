@@ -13,6 +13,11 @@
     --spacing-150: 0.75rem; /* 12px */
     --spacing-100: 0.5rem; /* 8px */
     --spacing-50: 0.25rem; /* 4px */
+
+    /* responsive design break points */
+    --desktop-breakpoint: 1024px;
+    --tablet-breakpoint: 768px;
+    --mobile-breakpoint: 480px;
 }
 
 .text-preset-1, .text-preset-2, .text-preset-2-bold {
@@ -53,3 +58,19 @@
 body, main {
     height: 100vh;
 }
+
+/* mobile styles */
+/*  */
+
+/* tablet styles */
+
+@media (min-width: 768px) and (max-width: 1023px) {
+}
+
+
+
+/* dekstop style */
+
+@media (min-width: 1024px) {
+}
+
