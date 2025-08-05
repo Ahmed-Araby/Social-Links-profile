@@ -97,6 +97,7 @@ body, main {
 }
 
 .owner-description{
+    width: 100%;
     color: var(--white);
 }
 
