@@ -116,11 +116,18 @@ body, main {
     background-color: var(--gray-700);
     border-radius: var(--spacing-100);
     padding: var(--spacing-150);
+    color: var(--white);
+}
+.professional-link:hover {
+    background-color: var(--green);
+    color: black;
+    cursor: url("./assets/images/black-hand-cursor.png"), pointer;
 }
 .professional-link a {
     text-decoration: none;
-    color: var(--white);
     display: block;
+    color: inherit;
+    cursor: inherit;
 }
 
 /*  */
