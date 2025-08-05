@@ -30,17 +30,14 @@
     font-weight: 700;
     font-size: 1.5rem; /* 24px */
 }
-
 .text-preset-2 {
     font-weight: 400;
     font-size: 0.875rem; /* 14px */
 }
-
 .text-preset-2-bold {
     font-weight: 700;
     font-size: 0.875rem; /* 14px */
 }
-
 /* custom fonts */
 @font-face {
     font-family: "Inter";
@@ -48,6 +45,7 @@
     font-weight: 400 700;
 }
 
+/* global styling */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -59,15 +57,7 @@ body, main {
     height: 100vh;
     background-color: var(--gray-900);
 }
-
-.profile-card {
-    padding: var(--spacing-300);
-    border-radius: var(--spacing-150);
-    /* [Question] how many number should I keep after the decimal point ?? */
-    width: 20.4375rem; /* 327px */
-    height: 36.1875rem; /* 579px */
-    background-color: var(--gray-800);
-}
+/*  */
 
 .flex-box{
     display: flex;
@@ -77,12 +67,24 @@ body, main {
     align-items: center;
 }
 
+
+
 /* mobile styles */
+.profile-card {
+    padding: var(--spacing-300);
+    border-radius: var(--spacing-150);
+    /* [Question] how many number should I keep after the decimal point ?? */
+    width: 20.4375rem; /* 327px */
+    height: 36.1875rem; /* 579px */
+    background-color: var(--gray-800);
+}
+
 .owner-img {
     border-radius: 50%;
     width: 5rem; /* 80px */
     height: 5rem; /* 80px */
 }
+
 .owner-intro {
     text-align: center;
     width: 100%;
@@ -94,6 +96,7 @@ body, main {
 .owner-address {
     color: var(--green);
 }
+
 .owner-description{
     color: var(--white);
 }
@@ -108,14 +111,12 @@ body, main {
 
     width: 100%;
 } 
-
 .professional-link {
     background-color: var(--gray-700);
     border-radius: var(--spacing-100);
     padding: var(--spacing-150);
     text-align: center;
 }
-
 .professional-link a {
     text-decoration: none;
     color: var(--white);
