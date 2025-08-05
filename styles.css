@@ -107,6 +107,20 @@ body, main {
 
     width: 100%;
 } 
+
+.professional-link {
+    background-color: var(--gray-700);
+    border-radius: var(--spacing-100);
+    padding: var(--spacing-150);
+    text-align: center;
+}
+
+.professional-link a {
+    text-decoration: none;
+    color: var(--white);
+    display: block;
+}
+
 /*  */
 
 /* tablet styles */
