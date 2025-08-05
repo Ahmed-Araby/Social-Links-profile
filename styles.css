@@ -75,7 +75,6 @@ body, main {
     border-radius: var(--spacing-150);
     /* [Question] how many number should I keep after the decimal point ?? */
     width: 20.4375rem; /* 327px */
-    height: 36.1875rem; /* 579px */
     background-color: var(--gray-800);
 }
 
