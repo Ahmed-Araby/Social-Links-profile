@@ -134,8 +134,8 @@ body, main {
 /*  */
 
 /* tablet styles 
- 768px<= width <= 1023px */
-@media (min-width: 48rem) and (max-width: 63.9375rem) {
+width >= 768px */
+@media (min-width: 48rem) {
     .profile-card {
         padding: var(--spacing-500);
         /* [Question] how many number should I keep after the decimal point ?? */
