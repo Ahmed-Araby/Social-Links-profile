@@ -96,6 +96,17 @@ body, main {
 .owner-description{
     color: var(--white);
 }
+
+.professional-links {
+    list-style-type: none;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: var(--spacing-200);
+
+    width: 100%;
+} 
 /*  */
 
 /* tablet styles */
