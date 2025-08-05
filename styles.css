@@ -76,6 +76,8 @@ body, main {
     /* [Question] how many number should I keep after the decimal point ?? */
     width: 20.4375rem; /* 327px */
     background-color: var(--gray-800);
+
+    text-align: center;
 }
 
 .owner-img {
@@ -85,7 +87,6 @@ body, main {
 }
 
 .owner-intro {
-    text-align: center;
     width: 100%;
 }
 .owner-name {
@@ -115,7 +116,6 @@ body, main {
     background-color: var(--gray-700);
     border-radius: var(--spacing-100);
     padding: var(--spacing-150);
-    text-align: center;
 }
 .professional-link a {
     text-decoration: none;
