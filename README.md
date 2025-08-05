@@ -49,3 +49,4 @@ The Social Links Profile challenge is about creating a card ceneterd in the midd
 - defining media query breakpoints for the different viewports / screens that I want to support.
 - using relative units em and rem instead of the static px to adapt with the user changes to the browser default font size.
 - vertical padding (and probably also vertical margin) of inline elements are not respected / recognized by the surrounding elements.
+- specifying a path to a resource with a leading forward slash like this **/assets/images/avatar-ahmed.jpeg** will be considered the path of the resource from the domain where the page was loaded from. instead if the asset should be loaded relative to the url where the page was loaded from, the asset path should be specified without leading forward slash.
