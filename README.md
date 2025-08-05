@@ -28,7 +28,7 @@ The Social Links Profile challenge is about creating a card ceneterd in the midd
 ### Links
 
 - Solution URL: [https://github.com/Ahmed-Araby/Social-Links-profile](https://github.com/Ahmed-Araby/Social-Links-profile)
-- Live Site URL: [https://ahmed-araby.github.io/Social-Links-profile/](https://ahmed-araby.github.io/Social-Links-profile/)
+- Live Site URL: [https://ahmedaraby.com/](https://ahmedaraby.com/)
 
 ## My process
 * define the design system using css variables and classes.
