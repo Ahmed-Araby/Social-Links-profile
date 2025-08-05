@@ -25,26 +25,27 @@ The Social Links Profile challenge is about creating a card ceneterd in the midd
 ### Mobile viewport
 ![page-in-mobile-viewport.png](https://github.com/Ahmed-Araby/Social-Links-profile/blob/main/documentation/images/page-in-mobile-viewport.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click 
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Ahmed-Araby/Social-Links-profile](https://github.com/Ahmed-Araby/Social-Links-profile)
+- Live Site URL: [https://ahmed-araby.github.io/Social-Links-profile/](https://ahmed-araby.github.io/Social-Links-profile/)
 
 ## My process
-
+* define the design system using css variables and classes.
+* set global styles.
+* layout the HTML structure.
+* style for the mobile view port, then the tablet viewport and lastely the Desktop viewport.
+* document and deploy my solution.
+  
 ### Built with
-
 - Semantic HTML5 markup
 - Flexbox
-- Mobile-first workflow
+- CSS variables
+- Media Queries
+- custom variable font file
 
 
 ### What I learned
-
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- defining media query breakpoints for the different viewports / screens that I want to support.
+- using relative units em and rem instead of the static px to adapt with the user changes to the browser default font size.
+- vertical padding (and probably also vertical margin) of inline elements are not respected / recognized by the surrounding elements.
