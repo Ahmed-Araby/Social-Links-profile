@@ -16,8 +16,14 @@ This is my solution for the [Social links profile challenge on Frontend Mentor](
 The Social Links Profile challenge is about creating a card ceneterd in the middle of the screen, the card includes information about the user and links to his profiles on professional platforms like LinkedIn, GitHub, Frontend Mentor, etc....
 
 ### Screenshot
+#### Desktop viewport
+![page-in-desktop-viewport.png](https://github.com/Ahmed-Araby/Social-Links-profile/blob/main/documentation/images/page-in-desktop-viewport.png)
 
-![](./screenshot.jpg)
+#### Tablet viewport
+![page-in-tablet-viewport.png](https://github.com/Ahmed-Araby/Social-Links-profile/blob/main/documentation/images/page-in-tablet-viewport.png)
+
+### Mobile viewport
+![page-in-mobile-viewport.png](https://github.com/Ahmed-Araby/Social-Links-profile/blob/main/documentation/images/page-in-mobile-viewport.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click 
 
