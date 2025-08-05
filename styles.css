@@ -126,20 +126,22 @@ body, main {
 /*  */
 
 /* tablet styles */
-
 @media (min-width: 768px) and (max-width: 1023px) {
     .profile-card {
         padding: var(--spacing-500);
         /* [Question] how many number should I keep after the decimal point ?? */
         width: 24rem; /* 384px */
-        /* [TODO] set height*/
     }
 }
-
+/*  */
 
 
 /* dekstop style */
-
 @media (min-width: 1024px) {
+    .profile-card {
+        padding: var(--spacing-500);
+        /* [Question] how many number should I keep after the decimal point ?? */
+        width: 24rem; /* 384px */
+    }
 }
-
+/*  */
