@@ -103,6 +103,9 @@ body, main {
     color: var(--white);
 }
 
+.navigation-menu {
+    width: 100%;
+}
 .professional-links {
     list-style-type: none;
 
